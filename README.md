@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my Github profile
+
 <!--
 **huntertran/huntertran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎓 Currently I'm a graduate student at Concordia University.
+- 🎉 I like to work on fun and helpful project.
+- 💬 I you have some interesting ideas and want to collaborate on freetime, contact me 😉
