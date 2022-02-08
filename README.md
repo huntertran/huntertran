@@ -2,7 +2,7 @@
 
 Welcome to my Github profile
 
-- 🎓 Currently I'm a graduate student at Concordia University.
+- ☕ I open to new opportunities.
 - 🎉 I like to work on fun and helpful project.
 - 💬 If you have some interesting ideas and want to collaborate on freetime, contact me 😉
 
