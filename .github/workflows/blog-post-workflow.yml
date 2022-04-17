@@ -1,6 +1,5 @@
 name: blog-post-workflow
-on:
-  workflow_dispatch:
+on: repository_dispatch
 
 jobs:
   update-readme-with-blog:
